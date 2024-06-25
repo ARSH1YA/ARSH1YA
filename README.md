@@ -6,7 +6,6 @@ I'm a frontend developer and machine learning enthusiast who loves exploring ast
 
 
 - 🔭 I’m currently working on Frontend and Machine Learning projects
-- 🐱‍👤 I’m currently learning Astronomical datascience
 - 🐱‍🏍 I’m looking to collaborate on Hackathons,Projects,Ideas
 - 📫 How to reach me: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=flat)](https://x.com/arsh1yasheoran)
 - 🎀 Pronouns: she/her
