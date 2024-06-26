@@ -13,6 +13,7 @@ I'm a frontend developer and machine learning enthusiast who loves exploring ast
 ## 📚 Recent Blog Posts
 - [Git behind the scenes](https://arshiya.hashnode.dev/git-behind-the-scenes)
 - [Exploring ShadCN UI: A Modern Approach to User Interface Development](https://arshiya.hashnode.dev/exploring-shadcn-ui-a-modern-approach-to-user-interface-development)
+- [How GSAP and Three.js Are Game Changers for Web Developers](https://arshiya.hashnode.dev/how-gsap-and-threejs-are-game-changers-for-web-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with me
