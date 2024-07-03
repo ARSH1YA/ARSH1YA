@@ -2,13 +2,8 @@
 I'm a frontend developer and machine learning enthusiast who loves exploring astronomical data science. I'm also passionate about chess.
 
 
-
-
-
 - 🔭 I’m currently working on Frontend and Machine Learning projects
 - 🐱‍🏍 I’m looking to collaborate on Hackathons,Projects,Ideas
-- 📫 How to reach me: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=flat)](https://x.com/arsh1yasheoran)
-- 🎀 Pronouns: she/her
 
 ## 📚 Recent Blog Posts
 - [Git behind the scenes](https://arshiya.hashnode.dev/git-behind-the-scenes)
